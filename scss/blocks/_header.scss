@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0;
+    &>img{
+        // margin-right: 191px;
+    }
+    &>a{
+        // margin-right: 88px;
+        color: white;
+        text-decoration: none;
+    }
+    button{
+        // margin-left: 120px;;
+        border: 1px solid #FFFFFF;
+        padding: 12px 17px 11px 18px;
+        border-radius: 5px;
+        background-color: #191411;
+        color: white;
+    }
+}
